@@ -4,6 +4,13 @@ Prisma SDWAN script retrieve all the data under Monitor tab
 #### Synopsis
 This script retrieves all the data under Monitor tab and saves it in a CSV
 
+Allowed CloudBlade Names:
+aws
+azure_ion
+gcp
+zs
+
+
 #### Requirements
 * Active CloudGenix Account
 * Python >=3.6
